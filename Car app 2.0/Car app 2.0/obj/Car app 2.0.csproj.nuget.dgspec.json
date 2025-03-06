@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\my-awesome-project\\Car app 2.0\\Car app 2.0\\Car app 2.0.csproj": {}
+    "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Car app 2.0\\Car app 2.0\\Car app 2.0.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\my-awesome-project\\Car app 2.0\\Car app 2.0\\Car app 2.0.csproj": {
+    "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Car app 2.0\\Car app 2.0\\Car app 2.0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\my-awesome-project\\Car app 2.0\\Car app 2.0\\Car app 2.0.csproj",
+        "projectUniqueName": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Car app 2.0\\Car app 2.0\\Car app 2.0.csproj",
         "projectName": "Car app 2.0",
-        "projectPath": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\my-awesome-project\\Car app 2.0\\Car app 2.0\\Car app 2.0.csproj",
+        "projectPath": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Car app 2.0\\Car app 2.0\\Car app 2.0.csproj",
         "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\my-awesome-project\\Car app 2.0\\Car app 2.0\\obj\\",
+        "outputPath": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Car app 2.0\\Car app 2.0\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
