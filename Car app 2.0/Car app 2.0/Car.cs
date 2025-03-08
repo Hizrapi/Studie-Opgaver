@@ -58,7 +58,18 @@ namespace Car_app_2._0
             set { isEngineOn = value; }
         }
 
-        public void ReadCarDetails()
+        // Constructor
+        public Car(string brand, string model, int year, double kmPerLiter, double odometer)
+        {
+            Brand = brand;
+            Model = model;
+            Year = year;
+            KmPerLiter = kmPerLiter;
+            Odometer = odometer; // Correctly set the initial odometer value
+            IsEngineOn = false; // Motoren er slukket til at starte med.
+        }
+
+        public void ReadCarDetails(List<Car> teamCars)
         {
             Console.Write("Indtast bilens mærke: ");
             Brand = Console.ReadLine();
@@ -78,7 +89,10 @@ namespace Car_app_2._0
             Console.Write("Indtast bilens brændstofforbrug: ");
             KmPerLiter = double.Parse(Console.ReadLine());
 
-            IsEngineOn = false; //Motoren er slukket til at starte med.
+            IsEngineOn = false; // Motoren er slukket til at starte med.
+
+            // Tilføj det nye Car-objekt til listen
+            teamCars.Add(new Car(Brand, Model, Year, KmPerLiter, Odometer));
         }
 
         public void ToggleEngine(bool turnOn)
@@ -145,22 +159,14 @@ namespace Car_app_2._0
             Console.WriteLine($"Bilens km per liter: {KmPerLiter}");
         }
 
-        public void PrintAllTeamCars()
+        public static void PrintAllTeamCars(List<Car> teamCars)
         {
-            List<Car> teamCars = new List<Car>
-                {
-                    new Car { Brand = "Toyota", Model = "Corolla", Year = 2020, Odometer = 15000, KmPerLiter = 15 },
-                    new Car { Brand = "Honda", Model = "Civic", Year = 2018, Odometer = 20000, KmPerLiter = 14 },
-                    new Car { Brand = "Ford", Model = "Focus", Year = 2019, Odometer = 18000, KmPerLiter = 13 },
-                    new Car { Brand = "Toyota", Model = "Yaris", Year = 2018, Odometer = 120000, KmPerLiter = 18 }
-                };
-
             foreach (Car car in teamCars)
             {
                 car.PrintCarDetails();
                 Console.WriteLine();
-
             }
         }
     }
 }
+
