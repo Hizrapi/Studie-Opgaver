@@ -7,12 +7,12 @@
             List<Car> teamCars = new List<Car>();
 
             Car car = new Car("Default", "Default", 0, 0, 0);
-            car.ReadCarDetails(teamCars);
+           // car.ReadCarDetails(teamCars);
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("Biloplysninger indlæst!");
-            Console.ResetColor();
+            // Console.WriteLine("Biloplysninger indlæst!");
+            /* Console.ResetColor();
             Console.ReadLine();
-            Console.Clear();
+            Console.Clear(); */
 
             int choice;
             do

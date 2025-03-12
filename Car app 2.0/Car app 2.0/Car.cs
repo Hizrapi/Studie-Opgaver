@@ -58,15 +58,15 @@ namespace Car_app_2._0
             set { isEngineOn = value; }
         }
 
-        // Constructor
+        // Min Constructor til liste
         public Car(string brand, string model, int year, double kmPerLiter, double odometer)
         {
             Brand = brand;
             Model = model;
             Year = year;
             KmPerLiter = kmPerLiter;
-            Odometer = odometer; // Correctly set the initial odometer value
-            IsEngineOn = false; // Motoren er slukket til at starte med.
+            Odometer = odometer; 
+            IsEngineOn = false; 
         }
 
         public void ReadCarDetails(List<Car> teamCars)

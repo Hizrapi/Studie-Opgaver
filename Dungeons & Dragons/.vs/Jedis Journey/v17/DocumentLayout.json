@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Dungeons \u0026 Dragons\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33F05109-9970-42CB-9041-709384872366}|Dungeons \u0026 Dragons\\Force journey.csproj|c:\\users\\marti\\desktop\\studie\\git projekter\\starup\\dungeons \u0026 dragons\\dungeons \u0026 dragons\\menuer\\new game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F05109-9970-42CB-9041-709384872366}|Dungeons \u0026 Dragons\\Force journey.csproj|solutionrelative:dungeons \u0026 dragons\\menuer\\new game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F05109-9970-42CB-9041-709384872366}|Dungeons \u0026 Dragons\\Dungeons \u0026 Dragons.csproj|c:\\users\\marti\\desktop\\studie\\git projekter\\starup\\dungeons \u0026 dragons\\dungeons \u0026 dragons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F05109-9970-42CB-9041-709384872366}|Dungeons \u0026 Dragons\\Dungeons \u0026 Dragons.csproj|solutionrelative:dungeons \u0026 dragons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F05109-9970-42CB-9041-709384872366}|Dungeons \u0026 Dragons\\Force journey.csproj|c:\\users\\marti\\desktop\\studie\\git projekter\\starup\\dungeons \u0026 dragons\\dungeons \u0026 dragons\\dice roll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F05109-9970-42CB-9041-709384872366}|Dungeons \u0026 Dragons\\Force journey.csproj|solutionrelative:dungeons \u0026 dragons\\dice roll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F05109-9970-42CB-9041-709384872366}|Dungeons \u0026 Dragons\\Force journey.csproj|c:\\users\\marti\\desktop\\studie\\git projekter\\starup\\dungeons \u0026 dragons\\dungeons \u0026 dragons\\menuer\\gameplay menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F05109-9970-42CB-9041-709384872366}|Dungeons \u0026 Dragons\\Force journey.csproj|solutionrelative:dungeons \u0026 dragons\\menuer\\gameplay menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F05109-9970-42CB-9041-709384872366}|Dungeons \u0026 Dragons\\Force journey.csproj|c:\\users\\marti\\desktop\\studie\\git projekter\\starup\\dungeons \u0026 dragons\\dungeons \u0026 dragons\\training monsters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F05109-9970-42CB-9041-709384872366}|Dungeons \u0026 Dragons\\Force journey.csproj|solutionrelative:dungeons \u0026 dragons\\training monsters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F05109-9970-42CB-9041-709384872366}|Dungeons \u0026 Dragons\\Force journey.csproj|c:\\users\\marti\\desktop\\studie\\git projekter\\starup\\dungeons \u0026 dragons\\dungeons \u0026 dragons\\quests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F05109-9970-42CB-9041-709384872366}|Dungeons \u0026 Dragons\\Force journey.csproj|solutionrelative:dungeons \u0026 dragons\\quests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F05109-9970-42CB-9041-709384872366}|Dungeons \u0026 Dragons\\Force journey.csproj|c:\\users\\marti\\desktop\\studie\\git projekter\\starup\\dungeons \u0026 dragons\\dungeons \u0026 dragons\\menuer\\start menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F05109-9970-42CB-9041-709384872366}|Dungeons \u0026 Dragons\\Force journey.csproj|solutionrelative:dungeons \u0026 dragons\\menuer\\start menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F05109-9970-42CB-9041-709384872366}|Dungeons \u0026 Dragons\\Force journey.csproj|c:\\users\\marti\\desktop\\studie\\git projekter\\starup\\dungeons \u0026 dragons\\dungeons \u0026 dragons\\menuer\\intro screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F05109-9970-42CB-9041-709384872366}|Dungeons \u0026 Dragons\\Force journey.csproj|solutionrelative:dungeons \u0026 dragons\\menuer\\intro screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F05109-9970-42CB-9041-709384872366}|Dungeons \u0026 Dragons\\Force journey.csproj|c:\\users\\marti\\desktop\\studie\\git projekter\\starup\\dungeons \u0026 dragons\\dungeons \u0026 dragons\\title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F05109-9970-42CB-9041-709384872366}|Dungeons \u0026 Dragons\\Force journey.csproj|solutionrelative:dungeons \u0026 dragons\\title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F05109-9970-42CB-9041-709384872366}|Dungeons \u0026 Dragons\\Force journey.csproj|c:\\users\\marti\\desktop\\studie\\git projekter\\starup\\dungeons \u0026 dragons\\dungeons \u0026 dragons\\force journey.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{33F05109-9970-42CB-9041-709384872366}|Dungeons \u0026 Dragons\\Force journey.csproj|solutionrelative:dungeons \u0026 dragons\\force journey.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F05109-9970-42CB-9041-709384872366}|Dungeons \u0026 Dragons\\Force journey.csproj|c:\\users\\marti\\desktop\\studie\\git projekter\\starup\\dungeons \u0026 dragons\\dungeons \u0026 dragons\\charecter\\character stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F05109-9970-42CB-9041-709384872366}|Dungeons \u0026 Dragons\\Force journey.csproj|solutionrelative:dungeons \u0026 dragons\\charecter\\character stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F05109-9970-42CB-9041-709384872366}|Dungeons \u0026 Dragons\\Force journey.csproj|c:\\users\\marti\\desktop\\studie\\git projekter\\starup\\dungeons \u0026 dragons\\dungeons \u0026 dragons\\charecter\\dark side.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F05109-9970-42CB-9041-709384872366}|Dungeons \u0026 Dragons\\Force journey.csproj|solutionrelative:dungeons \u0026 dragons\\charecter\\dark side.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F05109-9970-42CB-9041-709384872366}|Dungeons \u0026 Dragons\\Force journey.csproj|c:\\users\\marti\\desktop\\studie\\git projekter\\starup\\dungeons \u0026 dragons\\dungeons \u0026 dragons\\charecter\\light side.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F05109-9970-42CB-9041-709384872366}|Dungeons \u0026 Dragons\\Force journey.csproj|solutionrelative:dungeons \u0026 dragons\\charecter\\light side.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Title.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Dungeons \u0026 Dragons\\Dungeons \u0026 Dragons\\Title.cs",
+              "RelativeDocumentMoniker": "Dungeons \u0026 Dragons\\Title.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Dungeons \u0026 Dragons\\Dungeons \u0026 Dragons\\Title.cs",
+              "RelativeToolTip": "Dungeons \u0026 Dragons\\Title.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:33:11.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Start menu.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Dungeons \u0026 Dragons\\Dungeons \u0026 Dragons\\Menuer\\Start menu.cs",
+              "RelativeDocumentMoniker": "Dungeons \u0026 Dragons\\Menuer\\Start menu.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Dungeons \u0026 Dragons\\Dungeons \u0026 Dragons\\Menuer\\Start menu.cs",
+              "RelativeToolTip": "Dungeons \u0026 Dragons\\Menuer\\Start menu.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwCEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:39:58.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "New game.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Dungeons \u0026 Dragons\\Dungeons \u0026 Dragons\\Menuer\\New game.cs",
+              "RelativeDocumentMoniker": "Dungeons \u0026 Dragons\\Menuer\\New game.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Dungeons \u0026 Dragons\\Dungeons \u0026 Dragons\\Menuer\\New game.cs",
+              "RelativeToolTip": "Dungeons \u0026 Dragons\\Menuer\\New game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T20:26:21.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gameplay Menu.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Dungeons \u0026 Dragons\\Dungeons \u0026 Dragons\\Menuer\\Gameplay Menu.cs",
+              "RelativeDocumentMoniker": "Dungeons \u0026 Dragons\\Menuer\\Gameplay Menu.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Dungeons \u0026 Dragons\\Dungeons \u0026 Dragons\\Menuer\\Gameplay Menu.cs",
+              "RelativeToolTip": "Dungeons \u0026 Dragons\\Menuer\\Gameplay Menu.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:47:11.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Force journey.csproj",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Dungeons \u0026 Dragons\\Dungeons \u0026 Dragons\\Force journey.csproj",
+              "RelativeDocumentMoniker": "Dungeons \u0026 Dragons\\Force journey.csproj",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Dungeons \u0026 Dragons\\Dungeons \u0026 Dragons\\Force journey.csproj",
+              "RelativeToolTip": "Dungeons \u0026 Dragons\\Force journey.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-08T09:36:42.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Character stats.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Dungeons \u0026 Dragons\\Dungeons \u0026 Dragons\\Charecter\\Character stats.cs",
+              "RelativeDocumentMoniker": "Dungeons \u0026 Dragons\\Charecter\\Character stats.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Dungeons \u0026 Dragons\\Dungeons \u0026 Dragons\\Charecter\\Character stats.cs",
+              "RelativeToolTip": "Dungeons \u0026 Dragons\\Charecter\\Character stats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T19:01:41.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dice Roll.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Dungeons \u0026 Dragons\\Dungeons \u0026 Dragons\\Dice Roll.cs",
+              "RelativeDocumentMoniker": "Dungeons \u0026 Dragons\\Dice Roll.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Dungeons \u0026 Dragons\\Dungeons \u0026 Dragons\\Dice Roll.cs",
+              "RelativeToolTip": "Dungeons \u0026 Dragons\\Dice Roll.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:57:55.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Training Monsters.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Dungeons \u0026 Dragons\\Dungeons \u0026 Dragons\\Training Monsters.cs",
+              "RelativeDocumentMoniker": "Dungeons \u0026 Dragons\\Training Monsters.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Dungeons \u0026 Dragons\\Dungeons \u0026 Dragons\\Training Monsters.cs",
+              "RelativeToolTip": "Dungeons \u0026 Dragons\\Training Monsters.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAiwAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:44:04.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Dungeons \u0026 Dragons\\Dungeons \u0026 Dragons\\Program.cs",
+              "RelativeDocumentMoniker": "Dungeons \u0026 Dragons\\Program.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Dungeons \u0026 Dragons\\Dungeons \u0026 Dragons\\Program.cs",
+              "RelativeToolTip": "Dungeons \u0026 Dragons\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:04:13.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Light side.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Dungeons \u0026 Dragons\\Dungeons \u0026 Dragons\\Charecter\\Light side.cs",
+              "RelativeDocumentMoniker": "Dungeons \u0026 Dragons\\Charecter\\Light side.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Dungeons \u0026 Dragons\\Dungeons \u0026 Dragons\\Charecter\\Light side.cs",
+              "RelativeToolTip": "Dungeons \u0026 Dragons\\Charecter\\Light side.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:44:37.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Intro Screen.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Dungeons \u0026 Dragons\\Dungeons \u0026 Dragons\\Menuer\\Intro Screen.cs",
+              "RelativeDocumentMoniker": "Dungeons \u0026 Dragons\\Menuer\\Intro Screen.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Dungeons \u0026 Dragons\\Dungeons \u0026 Dragons\\Menuer\\Intro Screen.cs",
+              "RelativeToolTip": "Dungeons \u0026 Dragons\\Menuer\\Intro Screen.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:38:19.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Quests.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Dungeons \u0026 Dragons\\Dungeons \u0026 Dragons\\Quests.cs",
+              "RelativeDocumentMoniker": "Dungeons \u0026 Dragons\\Quests.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Dungeons \u0026 Dragons\\Dungeons \u0026 Dragons\\Quests.cs",
+              "RelativeToolTip": "Dungeons \u0026 Dragons\\Quests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T10:44:13.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dark side.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Dungeons \u0026 Dragons\\Dungeons \u0026 Dragons\\Charecter\\Dark side.cs",
+              "RelativeDocumentMoniker": "Dungeons \u0026 Dragons\\Charecter\\Dark side.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Dungeons \u0026 Dragons\\Dungeons \u0026 Dragons\\Charecter\\Dark side.cs",
+              "RelativeToolTip": "Dungeons \u0026 Dragons\\Charecter\\Dark side.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:44:58.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

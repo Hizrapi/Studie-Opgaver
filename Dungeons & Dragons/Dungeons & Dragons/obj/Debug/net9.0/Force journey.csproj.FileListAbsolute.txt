@@ -1,0 +1,15 @@
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\Dungeons & Dragons\Dungeons & Dragons\bin\Debug\net9.0\Force journey.exe
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\Dungeons & Dragons\Dungeons & Dragons\bin\Debug\net9.0\Force journey.deps.json
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\Dungeons & Dragons\Dungeons & Dragons\bin\Debug\net9.0\Force journey.runtimeconfig.json
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\Dungeons & Dragons\Dungeons & Dragons\bin\Debug\net9.0\Force journey.dll
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\Dungeons & Dragons\Dungeons & Dragons\bin\Debug\net9.0\Force journey.pdb
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\Dungeons & Dragons\Dungeons & Dragons\obj\Debug\net9.0\Force journey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\Dungeons & Dragons\Dungeons & Dragons\obj\Debug\net9.0\Force journey.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\Dungeons & Dragons\Dungeons & Dragons\obj\Debug\net9.0\Force journey.AssemblyInfo.cs
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\Dungeons & Dragons\Dungeons & Dragons\obj\Debug\net9.0\Force journey.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\Dungeons & Dragons\Dungeons & Dragons\obj\Debug\net9.0\Force journey.sourcelink.json
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\Dungeons & Dragons\Dungeons & Dragons\obj\Debug\net9.0\Force journey.dll
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\Dungeons & Dragons\Dungeons & Dragons\obj\Debug\net9.0\refint\Force journey.dll
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\Dungeons & Dragons\Dungeons & Dragons\obj\Debug\net9.0\Force journey.pdb
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\Dungeons & Dragons\Dungeons & Dragons\obj\Debug\net9.0\Force journey.genruntimeconfig.cache
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\Dungeons & Dragons\Dungeons & Dragons\obj\Debug\net9.0\ref\Force journey.dll

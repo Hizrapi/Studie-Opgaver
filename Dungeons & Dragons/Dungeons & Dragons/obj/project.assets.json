@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Dungeons & Dragons\\Dungeons & Dragons\\Dungeons & Dragons.csproj",
-      "projectName": "Dungeons & Dragons",
-      "projectPath": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Dungeons & Dragons\\Dungeons & Dragons\\Dungeons & Dragons.csproj",
+      "projectUniqueName": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Dungeons & Dragons\\Dungeons & Dragons\\Force journey.csproj",
+      "projectName": "Force journey",
+      "projectPath": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Dungeons & Dragons\\Dungeons & Dragons\\Force journey.csproj",
       "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Dungeons & Dragons\\Dungeons & Dragons\\obj\\",
       "projectStyle": "PackageReference",
