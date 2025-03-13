@@ -1,0 +1,15 @@
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\Studie opgaver\Studie opgaver\bin\Debug\net9.0\Studie opgaver.exe
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\Studie opgaver\Studie opgaver\bin\Debug\net9.0\Studie opgaver.deps.json
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\Studie opgaver\Studie opgaver\bin\Debug\net9.0\Studie opgaver.runtimeconfig.json
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\Studie opgaver\Studie opgaver\bin\Debug\net9.0\Studie opgaver.dll
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\Studie opgaver\Studie opgaver\bin\Debug\net9.0\Studie opgaver.pdb
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\Studie opgaver\Studie opgaver\obj\Debug\net9.0\Studie opgaver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\Studie opgaver\Studie opgaver\obj\Debug\net9.0\Studie opgaver.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\Studie opgaver\Studie opgaver\obj\Debug\net9.0\Studie opgaver.AssemblyInfo.cs
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\Studie opgaver\Studie opgaver\obj\Debug\net9.0\Studie opgaver.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\Studie opgaver\Studie opgaver\obj\Debug\net9.0\Studie opgaver.sourcelink.json
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\Studie opgaver\Studie opgaver\obj\Debug\net9.0\Studie opgaver.dll
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\Studie opgaver\Studie opgaver\obj\Debug\net9.0\refint\Studie opgaver.dll
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\Studie opgaver\Studie opgaver\obj\Debug\net9.0\Studie opgaver.pdb
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\Studie opgaver\Studie opgaver\obj\Debug\net9.0\Studie opgaver.genruntimeconfig.cache
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\Studie opgaver\Studie opgaver\obj\Debug\net9.0\ref\Studie opgaver.dll

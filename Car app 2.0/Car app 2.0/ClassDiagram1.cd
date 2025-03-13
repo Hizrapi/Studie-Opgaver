@@ -1,18 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="Car_app_2._0.Program">
-    <Position X="4.25" Y="0.5" Width="1.5" />
+  <Class Name="Car_app_2._0.Tripdistance">
+    <Position X="8.5" Y="1.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAQAAAAAEAAAAAAAAAAABAABBAAAAAAAAAAA=</HashCode>
+      <FileName>Tripdistance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Car_app_2._0.FuelPrice">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Fueltype.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Car_app_2._0.Program">
+    <Position X="1.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
       <FileName>Program.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Car_app_2._0.Car">
-    <Position X="4.25" Y="2" Width="1.5" />
+    <Position X="3.25" Y="1" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAUEAAAgBAAAAQAAAAAAAEAAAAhAiAEAAAgBAAgNAEg=</HashCode>
       <FileName>Car.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Enum Name="Car_app_2._0.FuelType">
+    <Position X="6.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAwAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Fueltype.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>

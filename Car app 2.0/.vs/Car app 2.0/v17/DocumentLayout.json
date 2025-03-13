@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{A4872452-CCB1-437A-BC67-8F9676F1BFE5}|Car app 2.0\\Car app 2.0.csproj|solutionrelative:car app 2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A4872452-CCB1-437A-BC67-8F9676F1BFE5}|Car app 2.0\\Car app 2.0.csproj|c:\\users\\marti\\desktop\\studie\\git projekter\\starup\\car app 2.0\\car app 2.0\\tripdistance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4872452-CCB1-437A-BC67-8F9676F1BFE5}|Car app 2.0\\Car app 2.0.csproj|solutionrelative:car app 2.0\\tripdistance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4872452-CCB1-437A-BC67-8F9676F1BFE5}|Car app 2.0\\Car app 2.0.csproj|c:\\users\\marti\\desktop\\studie\\git projekter\\starup\\car app 2.0\\car app 2.0\\fueltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4872452-CCB1-437A-BC67-8F9676F1BFE5}|Car app 2.0\\Car app 2.0.csproj|solutionrelative:car app 2.0\\fueltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A4872452-CCB1-437A-BC67-8F9676F1BFE5}|Car app 2.0\\Car app 2.0.csproj|c:\\users\\marti\\desktop\\studie\\git projekter\\starup\\car app 2.0\\car app 2.0\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4872452-CCB1-437A-BC67-8F9676F1BFE5}|Car app 2.0\\Car app 2.0.csproj|solutionrelative:car app 2.0\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4872452-CCB1-437A-BC67-8F9676F1BFE5}|Car app 2.0\\Car app 2.0.csproj|c:\\users\\marti\\desktop\\studie\\git projekter\\starup\\car app 2.0\\car app 2.0\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
-      "RelativeMoniker": "D:0:0:{A4872452-CCB1-437A-BC67-8F9676F1BFE5}|Car app 2.0\\Car app 2.0.csproj|solutionrelative:car app 2.0\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4872452-CCB1-437A-BC67-8F9676F1BFE5}|Car app 2.0\\Car app 2.0.csproj|c:\\users\\marti\\desktop\\studie\\git projekter\\starup\\car app 2.0\\car app 2.0\\dcd.mmd||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A4872452-CCB1-437A-BC67-8F9676F1BFE5}|Car app 2.0\\Car app 2.0.csproj|solutionrelative:car app 2.0\\dcd.mmd||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,39 +30,41 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClassDiagram1.cd",
-              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Car app 2.0\\Car app 2.0\\ClassDiagram1.cd",
-              "RelativeDocumentMoniker": "Car app 2.0\\ClassDiagram1.cd",
-              "ToolTip": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Car app 2.0\\Car app 2.0\\ClassDiagram1.cd",
-              "RelativeToolTip": "Car app 2.0\\ClassDiagram1.cd",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2025-03-06T12:00:36.401Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Car app 2.0\\Car app 2.0\\Car.cs",
               "RelativeDocumentMoniker": "Car app 2.0\\Car.cs",
               "ToolTip": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Car app 2.0\\Car app 2.0\\Car.cs",
               "RelativeToolTip": "Car app 2.0\\Car.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEIAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAALAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T10:03:33.68Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tripdistance.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Car app 2.0\\Car app 2.0\\Tripdistance.cs",
+              "RelativeDocumentMoniker": "Car app 2.0\\Tripdistance.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Car app 2.0\\Car app 2.0\\Tripdistance.cs",
+              "RelativeToolTip": "Car app 2.0\\Tripdistance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T09:48:10.996Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DCD.mmd",
-              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Car app 2.0\\Car app 2.0\\DCD.mmd",
-              "RelativeDocumentMoniker": "Car app 2.0\\DCD.mmd",
-              "ToolTip": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Car app 2.0\\Car app 2.0\\DCD.mmd",
-              "RelativeToolTip": "Car app 2.0\\DCD.mmd",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-06T09:00:23.449Z"
+              "DocumentIndex": 2,
+              "Title": "Fueltype.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Car app 2.0\\Car app 2.0\\Fueltype.cs",
+              "RelativeDocumentMoniker": "Car app 2.0\\Fueltype.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Car app 2.0\\Car app 2.0\\Fueltype.cs",
+              "RelativeToolTip": "Car app 2.0\\Fueltype.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:50:25.442Z"
             },
             {
               "$type": "Document",
@@ -72,7 +74,7 @@
               "RelativeDocumentMoniker": "Car app 2.0\\Program.cs",
               "ToolTip": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Car app 2.0\\Car app 2.0\\Program.cs",
               "RelativeToolTip": "Car app 2.0\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAGYAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-17T12:01:36.972Z",
               "EditorCaption": ""
