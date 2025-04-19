@@ -1,0 +1,30 @@
+
+# -----------------------------------------
+# 📁 Visual Studio / .NET standard .gitignore
+# -----------------------------------------
+
+# Byggede filer
+bin/
+obj/
+
+# Visual Studio cache
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Debug / Release logs
+*.log
+
+# NuGet packages (hvis du ikke vil gemme dem)
+packages/
+*.nupkg
+
+# Build-artikler fra Rider/ReSharper (valgfri)
+.idea/
+*.DotSettings.user
+
+# OS-specifikt (valgfrit)
+.DS_Store
+Thumbs.db
