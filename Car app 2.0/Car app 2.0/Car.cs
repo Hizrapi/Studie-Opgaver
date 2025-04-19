@@ -14,7 +14,9 @@ namespace Car_app_2._0
         private double odometer;
         private double kmPerLiter;
         private FuelType brændStofType;
-        private bool isEngineOn;       
+        private bool isEngineOn;
+        public List<Car> Cars = new List<Car>();
+        public List<Tripdistance> Trips { get; set; } = new List<Tripdistance>();
 
         public string Brand
         {
@@ -68,6 +70,7 @@ namespace Car_app_2._0
             Odometer = odometer;
             BrændStofType = brændStofType;
             IsEngineOn = false;
+            
         }
 
         public void ReadCarDetails(List<Car> teamCars)
@@ -103,7 +106,7 @@ namespace Car_app_2._0
             // Tilføj det nye Car-objekt til listen
             teamCars.Add(new Car(Brand, Model, Year, KmPerLiter, Odometer, BrændStofType));
         }
-
+        
         public void ToggleEngine(bool turnOn)
         {
             IsEngineOn = turnOn;
@@ -169,13 +172,13 @@ namespace Car_app_2._0
             Console.WriteLine($"Bilens brændstoftype: {BrændStofType}");
         }
 
-        public static void PrintAllTeamCars(List<Car> teamCars, List<Tripdistance> tripList)
+        public static void PrintAllTeamCars(List<Car> teamCars)
         {
             foreach (Car car in teamCars)
             {
                 car.PrintCarDetails();
                 Console.WriteLine("Trips:");
-                Tripdistance.PrintTripList(tripList);
+                Tripdistance.PrintTripList(car.Trips);
             }
         }
     }

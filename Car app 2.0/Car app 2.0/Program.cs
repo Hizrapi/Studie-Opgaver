@@ -96,7 +96,7 @@
                         break;
 
                     case 6:
-                        Car.PrintAllTeamCars(teamCars, tripList);
+                        Car.PrintAllTeamCars(teamCars);
                         break;
 
                     case 7:

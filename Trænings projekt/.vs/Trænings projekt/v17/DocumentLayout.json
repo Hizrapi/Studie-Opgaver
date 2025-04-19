@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Tr\u00E6nings projekt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26D7872F-09D8-4136-BBA4-91F2A81DBACF}|Tr\u00E6nings projekt\\Tr\u00E6nings projekt.csproj|c:\\users\\marti\\desktop\\studie\\git projekter\\starup\\tr\u00E6nings projekt\\tr\u00E6nings projekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D7872F-09D8-4136-BBA4-91F2A81DBACF}|Tr\u00E6nings projekt\\Tr\u00E6nings projekt.csproj|solutionrelative:tr\u00E6nings projekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D7872F-09D8-4136-BBA4-91F2A81DBACF}|Tr\u00E6nings projekt\\Tr\u00E6nings projekt.csproj|c:\\users\\marti\\desktop\\studie\\git projekter\\starup\\tr\u00E6nings projekt\\tr\u00E6nings projekt\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D7872F-09D8-4136-BBA4-91F2A81DBACF}|Tr\u00E6nings projekt\\Tr\u00E6nings projekt.csproj|solutionrelative:tr\u00E6nings projekt\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Tr\u00E6nings projekt\\Tr\u00E6nings projekt\\Car.cs",
+              "RelativeDocumentMoniker": "Tr\u00E6nings projekt\\Car.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Tr\u00E6nings projekt\\Tr\u00E6nings projekt\\Car.cs",
+              "RelativeToolTip": "Tr\u00E6nings projekt\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:39:28.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Tr\u00E6nings projekt\\Tr\u00E6nings projekt\\Program.cs",
+              "RelativeDocumentMoniker": "Tr\u00E6nings projekt\\Program.cs",
+              "ToolTip": "C:\\Users\\marti\\Desktop\\Studie\\GIT projekter\\Starup\\Tr\u00E6nings projekt\\Tr\u00E6nings projekt\\Program.cs",
+              "RelativeToolTip": "Tr\u00E6nings projekt\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:38:59.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
