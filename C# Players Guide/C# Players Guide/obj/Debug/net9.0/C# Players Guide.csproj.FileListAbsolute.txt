@@ -1,0 +1,15 @@
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\C# Players Guide\C# Players Guide\bin\Debug\net9.0\C# Players Guide.exe
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\C# Players Guide\C# Players Guide\bin\Debug\net9.0\C# Players Guide.deps.json
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\C# Players Guide\C# Players Guide\bin\Debug\net9.0\C# Players Guide.runtimeconfig.json
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\C# Players Guide\C# Players Guide\bin\Debug\net9.0\C# Players Guide.dll
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\C# Players Guide\C# Players Guide\bin\Debug\net9.0\C# Players Guide.pdb
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\C# Players Guide\C# Players Guide\obj\Debug\net9.0\C# Players Guide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\C# Players Guide\C# Players Guide\obj\Debug\net9.0\C# Players Guide.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\C# Players Guide\C# Players Guide\obj\Debug\net9.0\C# Players Guide.AssemblyInfo.cs
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\C# Players Guide\C# Players Guide\obj\Debug\net9.0\C# Players Guide.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\C# Players Guide\C# Players Guide\obj\Debug\net9.0\C# Players Guide.sourcelink.json
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\C# Players Guide\C# Players Guide\obj\Debug\net9.0\C# Players Guide.dll
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\C# Players Guide\C# Players Guide\obj\Debug\net9.0\refint\C# Players Guide.dll
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\C# Players Guide\C# Players Guide\obj\Debug\net9.0\C# Players Guide.pdb
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\C# Players Guide\C# Players Guide\obj\Debug\net9.0\C# Players Guide.genruntimeconfig.cache
+C:\Users\marti\Desktop\Studie\GIT projekter\Starup\C# Players Guide\C# Players Guide\obj\Debug\net9.0\ref\C# Players Guide.dll
