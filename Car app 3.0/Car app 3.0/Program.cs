@@ -49,7 +49,7 @@ namespace Car_app_3._0
                 new ("Show Car Owners",      ShowCarOwners),
                 new ("Remove A Car Owner",   RemoveCarOwner),
                 new ("Choose Car Owner",     ChooseCarOwner),
-                           
+
             });
 
         private static MenuPage CarFunktionsMenu() => new(
@@ -64,7 +64,7 @@ namespace Car_app_3._0
                 new ("Change Tires On Car",  PromptDummy),
                 new ("Get Car To Service",   PromptDummy),
                 new ("Remove Car",           PromptDummy),
-                          
+
             });
 
         private static MenuPage TripFunktionsMenu() => new(
@@ -78,7 +78,7 @@ namespace Car_app_3._0
             });
 
 
-        
+
         private static void AddNewCarOwner()
         {
             Console.Write("What is the Owners name: ");
@@ -91,7 +91,7 @@ namespace Car_app_3._0
                 return;
             }
             carOwnerManager.AddCarOwner(name);
-            Console.ReadLine();            
+            Console.ReadLine();
         }
 
         private static void ShowCarOwners()
@@ -99,7 +99,7 @@ namespace Car_app_3._0
             Console.WriteLine("Show car owners");
             carOwnerManager.ShowCarOwners();
             Console.ReadLine();
-            Console.Clear();            
+            Console.Clear();
         }
 
         private static void RemoveCarOwner()
@@ -116,7 +116,7 @@ namespace Car_app_3._0
             carOwnerManager.RemoveCarOwner(ownerToRemove);
             Console.ReadLine();
             Console.Clear();
-            
+
         }
 
         private static void ChooseCarOwner()
@@ -137,251 +137,5 @@ namespace Car_app_3._0
             Console.WriteLine("Det her er en dummy");
             Console.ReadKey();
         }
-        //static void Main(string[] args)
-        //{
-        //    int choice;
-        //    Menu menu = new Menu();
-
-        //    do
-        //    {
-        //        menu.Usermenu();
-        //        Console.ForegroundColor = ConsoleColor.Cyan;
-
-        //        if (!int.TryParse(Console.ReadLine(), out choice))
-        //        {
-        //            Console.ForegroundColor = ConsoleColor.Red;
-        //            Console.WriteLine("Invalid input, please enter a number.");
-        //            Console.ForegroundColor = ConsoleColor.Cyan;
-        //            continue;
-        //        }
-
-        //        Console.Clear();
-
-        //        switch (choice)
-        //        {
-        //            case 1:
-        //                HandleCarOwnerMenu(menu);
-        //                break;
-        //            case 2:
-        //                HandleCarMenu(menu);
-        //                break;
-        //            case 3:
-        //                HandleTripMenu(menu);
-        //                break;
-        //            case 4:
-        //                //Skal have hele listen ind her.
-        //                break;
-        //            case 5:
-        //                Console.WriteLine("Thank you for using car management system!");
-        //                break;
-        //            default:
-        //                Console.ForegroundColor = ConsoleColor.Red;
-        //                Console.WriteLine("Invalid Choice, Try Again!!");
-        //                Console.ForegroundColor = ConsoleColor.Cyan;
-        //                break;
-        //        }
-        //    } while (choice != 5);
-        //}
-
-        //static void HandleCarOwnerMenu(Menu menu)
-        //{
-        //    int ownerChoice;
-        //    do
-        //    {
-        //        menu.CarOwnerMenu();
-        //        Console.ForegroundColor = ConsoleColor.Cyan;
-
-        //        if (!int.TryParse(Console.ReadLine(), out ownerChoice))
-        //        {
-        //            Console.ForegroundColor = ConsoleColor.Red;
-        //            Console.WriteLine("Invalid input, please enter a number.");
-        //            Console.ForegroundColor = ConsoleColor.Cyan;
-        //            continue;
-        //        }
-
-        //        switch (ownerChoice)
-        //        {
-        //            case 1:
-        //                Console.Write("What is the Owners name: ");
-        //                string name = Console.ReadLine() ?? string.Empty;
-        //                if (string.IsNullOrEmpty(name))
-        //                {
-        //                    Console.ForegroundColor = ConsoleColor.Red;
-        //                    Console.WriteLine("Name cannot be empty.");
-        //                    Console.ForegroundColor = ConsoleColor.Cyan;
-        //                    break;
-        //                }
-        //                carOwnerManager.AddCarOwner(name);
-        //                Console.ReadLine();
-        //                Console.Clear();
-        //                break;
-
-        //            case 2:
-        //                Console.WriteLine("Show car owners");
-        //                carOwnerManager.ShowCarOwners();
-        //                Console.ReadLine();
-        //                Console.Clear();
-        //                break;
-
-        //            case 3:
-        //                Console.Write("Which owner do you want to remove? ");
-        //                string ownerToRemove = Console.ReadLine() ?? string.Empty;
-        //                if (string.IsNullOrEmpty(ownerToRemove))
-        //                {
-        //                    Console.ForegroundColor = ConsoleColor.Red;
-        //                    Console.WriteLine("Owner name cannot be empty.");
-        //                    Console.ForegroundColor = ConsoleColor.Cyan;
-        //                    break;
-        //                }
-        //                carOwnerManager.RemoveCarOwner(ownerToRemove);
-        //                Console.ReadLine();
-        //                Console.Clear();
-        //                break;
-
-        //            case 4:
-        //                Console.Write("Enter the owner's name: ");
-        //                string ownerName = Console.ReadLine() ?? string.Empty;
-        //                if (string.IsNullOrEmpty(ownerName))
-        //                {
-        //                    Console.ForegroundColor = ConsoleColor.Red;
-        //                    Console.WriteLine("Owner name cannot be empty.");
-        //                    Console.ForegroundColor = ConsoleColor.Cyan;
-        //                    break;
-        //                }
-
-        //                break;
-
-        //            case 5:
-        //                Console.WriteLine("Returning to main menu..");
-        //                break;
-        //        }
-
-        //    } while (ownerChoice != 5);
-
-        //    Console.Clear();
-        //}
-
-        //static void HandleCarMenu(Menu menu)
-        //{
-        //    int carChoice;
-        //    do
-        //    {
-        //        Console.Clear();
-        //        menu.CarMenu();
-        //        Console.ForegroundColor = ConsoleColor.Cyan;
-
-        //        if (!int.TryParse(Console.ReadLine(), out carChoice))
-        //        {
-        //            Console.ForegroundColor = ConsoleColor.Red;
-        //            Console.WriteLine("Invalid input, please enter a number.");
-        //            Console.ForegroundColor = ConsoleColor.Cyan;
-        //            continue;
-        //        }
-
-        //        switch (carChoice)
-        //        {
-        //            case 1:
-        //                Console.WriteLine("Hvilket bilmærke vil du tilføje?");
-        //                string brand = Console.ReadLine() ?? string.Empty;
-
-        //                Console.WriteLine("Hvilken model vil du tilføje?");
-        //                string model = Console.ReadLine() ?? string.Empty;
-
-        //                Console.WriteLine("Hvilket årstal er bilen fra?");
-        //                int year = int.Parse(Console.ReadLine() ?? "0");
-
-        //                Console.WriteLine("Hvor mange km/l kører bilen?");
-        //                double kmPerLiter = double.Parse(Console.ReadLine() ?? "0");
-
-        //                Console.WriteLine("Hvilken brændstof type bruger bilen? (Petrol, Diesel, Electric, Hybrid)");
-        //                FuelType fuelType = (FuelType)Enum.Parse(typeof(FuelType), Console.ReadLine() ?? "0");
-
-        //                Console.WriteLine("Hvor mange liter kan tanken indeholde?");
-        //                double fuelTank = double.Parse(Console.ReadLine() ?? "0");
-
-        //                var trips = new List<Trip>();
-        //                carManager.AddCar(brand, model, year, kmPerLiter, fuelTank, fuelType, trips);
-        //                Console.WriteLine($"Car added: {brand} {model} ({year}) - {kmPerLiter} km/l, {fuelType}");
-
-
-        //                break;
-
-        //            case 2:
-        //                Console.WriteLine("Add fuel to car");
-        //                break;
-
-        //            case 3:
-        //                Console.WriteLine("Change tires in car");
-        //                break;
-
-        //            case 4:
-        //                Console.WriteLine("Car service");
-        //                break;
-
-        //            case 5:
-        //                Console.WriteLine("Show cars");
-        //                break;
-
-        //            case 6:
-        //                Console.WriteLine("Remove Car");
-        //                break;
-
-        //            case 7:
-        //                Console.WriteLine("Choose car");
-        //                break;
-
-        //            case 8:
-        //                Console.WriteLine("Turn engine on/off");
-        //                break;
-
-        //            case 9:
-        //                Console.WriteLine("Returning to main menu..");
-        //                break;
-        //        }
-
-        //    } while (carChoice != 9);
-
-
-        //}
-
-        //static void HandleTripMenu(Menu menu)
-        //{
-        //    int tripChoice;
-        //    do
-        //    {
-        //        menu.TripMenu();
-        //        Console.ForegroundColor = ConsoleColor.Cyan;
-
-        //        if (!int.TryParse(Console.ReadLine(), out tripChoice))
-        //        {
-        //            Console.ForegroundColor = ConsoleColor.Red;
-        //            Console.WriteLine("Invalid input, please enter a number.");
-        //            Console.ForegroundColor = ConsoleColor.Cyan;
-        //            continue;
-        //        }
-
-        //        switch (tripChoice)
-        //        {
-        //            case 1:
-        //                Console.WriteLine("Add trip");
-        //                break;
-
-        //            case 2:
-        //                Console.WriteLine("Remove trip");
-        //                break;
-
-        //            case 3:
-        //                Console.WriteLine("Show trips");
-        //                break;
-
-        //            case 4:
-        //                Console.WriteLine("Returning to main menu..");
-        //                break;
-        //        }
-
-        //} while (tripChoice != 4);
-
-        //    Console.Clear();
-        //}
     }
 }

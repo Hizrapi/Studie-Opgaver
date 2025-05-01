@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Car_app_3._0.UI
 {
-    /// <summary> UIMenu indholder kun ting om der skal vises.. </summary>
+    /// <summary> UIMenu indholder kun ting som der skal vises.. </summary>
     public static class UIMenu
     {
         public static void DrawMenu(IConsole con, MenuPage page, int selectedIndex)
